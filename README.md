@@ -71,11 +71,8 @@ Market-Analysis-Project/
 > Add screenshots of your Power BI dashboard inside the **screenshots** folder.
 
 Example:
-
 ![Dashboard](Dashboard.png)
-![Dashboard](Dashborad2.png)
-![Dashboard](Dashboard3.png)
-
+![Dashboard](Dashboard 2.png)
 ## 🚀 How to Run the Project
 
 ### SQL
