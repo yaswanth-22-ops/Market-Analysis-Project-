@@ -73,8 +73,8 @@ Market-Analysis-Project/
 Example:
 
 ![Dashboard](Dashboard.png)
-![Dashboard](Dashborad.2png)
-![Dashboard](Dashboard.3png)
+![Dashboard](Dashborad2.png)
+![Dashboard](Dashboard3.png)
 
 ## 🚀 How to Run the Project
 
