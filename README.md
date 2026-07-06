@@ -73,10 +73,7 @@ Market-Analysis-Project/
 Example:
 
 ```
-<img width="1310" height="733" alt="Screenshot 2026-07-06 123647" src="https://github.com/user-attachments/assets/721d7061-5c52-4cb3-9c4b-a0d540774ab1" />
-<img width="1307" height="732" alt="Screenshot 2026-07-06 123734" src="https://github.com/user-attachments/assets/b5d0955c-8eb2-44c3-af79-ed50586734fa" />
-<img width="1310" height="732" alt="Screenshot 2026-07-06 123717" src="https://github.com/user-attachments/assets/079ee9e7-6d28-40f8-989a-1102638f2aea" />
-<img width="1308" height="728" alt="Screenshot 2026-07-06 123700" src="https://github.com/user-attachments/assets/c0df7cb7-fb22-488d-bb3d-e84e9b92e096" />
+
 
 ```
 
