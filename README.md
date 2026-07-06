@@ -72,11 +72,7 @@ Market-Analysis-Project/
 
 Example:
 
-```![Dashboard](Dashboard.png)
-
-```
-
----
+![Dashboard](Dashboard.png)
 
 ## 🚀 How to Run the Project
 
@@ -126,7 +122,7 @@ This project strengthened my understanding of:
 
 ## 👤 Author
 
-**Vijay**
+**Navuru Yaswanth**
 
 Aspiring Data Analyst
 
