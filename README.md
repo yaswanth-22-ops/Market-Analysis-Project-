@@ -72,9 +72,7 @@ Market-Analysis-Project/
 
 Example:
 
-```
-![Dashboard](Dashboard.png)
-
+```![Dashboard](Dashboard.png)
 
 ```
 
