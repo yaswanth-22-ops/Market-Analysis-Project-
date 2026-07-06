@@ -73,7 +73,7 @@ Market-Analysis-Project/
 Example:
 
 ```
-![dashboard](Screenshots/dashboard.png)
+![dashboard](https://raw.githubusercontent.com/username/repo/main/Screenshots/Dashboard.png)
 
 
 ```
