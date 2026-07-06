@@ -73,7 +73,7 @@ Market-Analysis-Project/
 Example:
 
 ```
-![Dashboard](Screenshot 2026-07-06 123647/Dashboard.png)
+![Dashboard](Screenshot 2026-07-06 123647.png)
 
 
 ```
