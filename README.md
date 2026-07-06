@@ -73,7 +73,8 @@ Market-Analysis-Project/
 Example:
 
 ```
-![image alt](https://github.com/yaswanth-22-ops/Market-Analysis-Project-/blob/003a07df741b2c8b076fee3428b916625385e40a/Screenshot%202026-07-06%20123647.png)
+<img width="1310" height="733" alt="Image" src="https://github.com/user-attachments/assets/6c556c62-6099-4c3e-8541-3bae4c978c06" />
+
 
 ```
 
