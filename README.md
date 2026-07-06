@@ -73,7 +73,7 @@ Market-Analysis-Project/
 Example:
 
 ```
-
+![image alt](https://github.com/yaswanth-22-ops/Market-Analysis-Project-/blob/003a07df741b2c8b076fee3428b916625385e40a/Screenshot%202026-07-06%20123647.png)
 
 ```
 
